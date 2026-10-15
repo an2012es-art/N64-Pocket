@@ -1,5 +1,4 @@
 name: Build N64 Pocket NDS
-
 on:
   workflow_dispatch:
   push:
